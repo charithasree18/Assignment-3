@@ -1,6 +1,6 @@
 # Assignment-3
 
-## DEscription
+## Description
 
 This repository includes Python scripts that demonstrate the use of mathematical functions and user input handling.
 
@@ -38,3 +38,4 @@ Task 1
 
 Task 2
 
+![Image](https://github.com/user-attachments/assets/90a813c1-c02a-487e-8312-aaa3a7792b16)
