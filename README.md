@@ -34,3 +34,7 @@ User input handling
 
 Task 1
 
+![Image](https://github.com/user-attachments/assets/b36bfa13-2c30-4bcb-8b5f-0ad92efc9ac0)
+
+Task 2
+
